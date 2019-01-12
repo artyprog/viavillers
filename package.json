@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "bss": "^1.5.1",
+    "mithril": "^1.1.6"
+  },
+  "devDependencies": {
+    "electron-to-chromium": "^1.3.96"
+  }
+}
